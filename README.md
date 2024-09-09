@@ -37,3 +37,13 @@
 ### 7. API Documentation
 
 # API documentation is provided in the Library.postman_collection.json file. You can import this file into Postman to view the available API requests and their responses. Note that only admin users have permission to access certain requests.
+
+### Project Versions
+
+# PHP: 8.2.12
+
+# Laravel Framework: 10.48.20
+
+# NPM: 10.8.2
+
+# Node.js: 20.17.0
